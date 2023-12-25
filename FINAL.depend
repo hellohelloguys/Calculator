@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1703479675 source:x:\cyuyan\final\hanshu.c
+	"header.h"
+
+1703481027 source:x:\cyuyan\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"header.h"
+
+1703479675 x:\cyuyan\final\header.h
+
+1703480207 source:x:\cyuyan\final\fun.c
+	"header.h"
+
+1703480207 source:x:\cyuyan\final\suanchiwei.c
+	"header.h"
+
+1703480207 source:x:\cyuyan\final\time.c
+	"header.h"
+
