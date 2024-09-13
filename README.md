@@ -1,2 +1,2 @@
-# NEW
-JUST_FOR_FUN
+# 日出日落计算器
+C语音
